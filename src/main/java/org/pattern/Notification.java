@@ -1,4 +1,4 @@
-package spring.pattern;
+package org.pattern;
 
 import org.springframework.beans.factory.annotation.Autowired;
 

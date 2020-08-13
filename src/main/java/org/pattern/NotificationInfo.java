@@ -1,4 +1,4 @@
-package spring.pattern;
+package org.pattern;
 
 public class NotificationInfo {
 
